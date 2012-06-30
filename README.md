@@ -1,6 +1,6 @@
 # lein-tag
 
-A Leiningen plugin to do many wonderful things.
+For lazy people who get tired of creating annotated git tags manually.
 
 ## Usage
 
